@@ -1,0 +1,9 @@
+os
+requests
+json
+dotenv
+fastapi
+pypdf2
+re
+io
+unicorn
