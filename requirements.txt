@@ -3,3 +3,4 @@ fastapi
 pypdf2
 uvicorn
 requests
+python-multipart
